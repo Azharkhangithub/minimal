@@ -1,6 +1,16 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Mohammed Azhar Khan </p>
+logo: /assets/img/E9E7B8E8-240D-490A-A0C5-577305083E14.jpg
+
+description:
+  <p align="center">
+  <a href="/assets/Azhar_Resume_2021.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/mohammed-azhar-khan-ba26869a/">LinkedIn</a> |
+  <a href="https://github.com/Azharkhangithub">GitHub</a>
+  
+  <br>   
+  Software Engineer with experience in BigData, Finance Domain and techical expertise in Java,
+  Selenium, BDD cucumber, TestNG Frameworks, Oracle BD,Postman,Kubernetes, Airflow,
+  Containerization and AWS (S3).
+  <br>
+  </p>
 theme: jekyll-theme-minimal
